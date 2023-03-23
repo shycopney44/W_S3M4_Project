@@ -7,7 +7,7 @@
     - VSCode is where you will make changes to the code.
     - Chrome is where you will check if your code is working correctly.
 3. In Chrome, open DevTools, Elements tab:
-    - Some elements are generated dynamically and don't appear in the HTML source code.
+    - Most elements on the page are generated dynamically and don't appear in the HTML source code.
     - This means that the Elements tab is the only place where you can inspect these elements.
 4. Return to `index.html` and start working on your tasks.
 5. When you want to check if your code is correct, save changes in VSCode, go to Chrome and refresh the page.
