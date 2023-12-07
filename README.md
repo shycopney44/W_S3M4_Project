@@ -11,7 +11,6 @@
     - Most elements on the page are generated with JavaScript and don't appear in the HTML source code.
     - This means that the Elements tab is the only place where you can inspect these elements.
 4. Return to `index.html` and start working on your tasks.
-5. When you want to check if your code is correct, save changes in VSCode, go to Chrome and refresh the page.
+5. When you want to check if your code is correct, save changes in VSCode, go to Chrome, and refresh the page.
 6. Find screenshots of the end result of this challenge inside the `design` folder.
-7. To submit both parts of the challenge within the course, you can enter the following into the text box with the brackets: 
-    {insert URL for Part 1}, {insert URL for Part 2}
+7. To submit the challenge within the course, you can enter the URL for part 2 into the text box.
